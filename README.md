@@ -28,6 +28,5 @@ Then visit http://localhost:8080.
 - `index.html` — page content
 - `styles.css` — layout, type, and color
 - `images/user-headshot.jpg` — portrait in the header
-- `images/linkedin-headshot.jpg` — second photo in About
 
 There is no build step and no framework. GitHub Pages serves the repository root.
